@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Wazex",
-    "slug": "Wazex",
+    "slug": "mobile",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
