@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://wazex.herokuapp.com',
+  baseURL: 'https://wazex-backend.herokuapp.com/devs',
 });
 
 export default api;
